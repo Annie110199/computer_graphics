@@ -1,3 +1,5 @@
+package lab1;
+
 import javax.swing.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
